@@ -1,0 +1,6 @@
+n %4. No user action is required." />
+        <string id="event_MSG_DOCUMENT_FAILED_ACCESS_DENIED" value="The document failed to print because the user did not have the necessary privileges." />
+        <string id="event_MSG_DOCUMENT_PAUSED" value="Document %1, %2 owned by %3 was paused on %4. This document will not print until the document owner resumes the print job. No user action is required." />
+        <string id="event_MSG_DOCUMENT_POSITION_CHANGED" value="An administrator moved document %1, %2 owned by %3 to position %4 on %5. This changes when the document will print. No user action is required." />
+        <string id="event_MSG_DOCUMENT_PRINTED" value="Document %1, %2 owned by %3 on %4 was printed on %5 through port %6.  Size in bytes: %7. Pages printed: %8. No user action is required." />
+        <string id="event_MSG_DOCU

@@ -1,0 +1,12 @@
+	</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="827ed1f50d391c1377cd074b99f4011c" version="6.1.7601.24499" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4512506-1687_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="serviceLevel">
+					<assemblyIdentity name="Microsoft-Windows-COM-Base.Resources" version="6.1.7601.24511" processorArchitecture="amd64" language="ko-KR" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-COM-Base.Resources" version="6.1.7601.24511" processorArchitecture="x86" language="ko-KR" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+	
